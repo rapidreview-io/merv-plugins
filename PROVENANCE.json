@@ -1,0 +1,25 @@
+{
+  "sourceRepository": "rapidreview-io/Merv",
+  "sourceRevision": "2a3fd0a5dd3c92d60407d06d294c055e348c634b",
+  "pluginVersion": "0.5.7",
+  "files": {
+    ".agents/plugins/marketplace.json": "05cb0bafa33bd69f63f8f74b60784e0ec2270c70da64c150386424e3526f0a46",
+    ".claude-plugin/marketplace.json": "c8cb1ae036477931314753bdf09a8d5a5bfe6cc3022afeb51dad6b0a316973de",
+    "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "NOTICE": "d9b32e4d1a4debdab96ea359eb9f28612d96de20214b750c36968b0460554042",
+    "README.md": "8c8812d2a19af2f1a180db34c99b3221410e31e824e284e470ed5e2de4f40676",
+    "claude-code/.claude-plugin/plugin.json": "1c7251d98e866147bcab80f21f5e28fc27c3a982ca418d8f96055807fcd5f72c",
+    "claude-code/.mcp.json": "d20e3326f14f17eb6ded6958e5abbdcca130971c828b1064f88572ac1e11f59c",
+    "claude-code/skills/git-access/SKILL.md": "a409d62d36e4d468fed8fc4e16273d091a9cdd6615f37e9aeca94c1bc7f08dbf",
+    "claude-code/skills/operations/SKILL.md": "044da377950ca5ab8b0ebee07c699d1d67cc4fae8060051e099714bb1d224d8f",
+    "claude-code/skills/owners-agent/SKILL.md": "e1f89e9ae90982ae0e1c1523e2f0c39b3ebaf73cbdd365d405b767cac14e8160",
+    "claude-code/skills/research/SKILL.md": "a0b8f6503d9a88819bccea9781b98f1d0ff93a54b8c6cbb6186d22e162b0d8ca",
+    "codex/.codex-plugin/plugin.json": "657d5de0dce4b425c3735703d75d1a828b9ca8cf5f2bde3adfeb52763a6c8f5f",
+    "codex/.mcp.json": "595ed396567f98f7c078d33f7c1a6e312c1b0a491571c797d57f567218b9baa5",
+    "codex/skills/git-access/SKILL.md": "a409d62d36e4d468fed8fc4e16273d091a9cdd6615f37e9aeca94c1bc7f08dbf",
+    "codex/skills/operations/SKILL.md": "044da377950ca5ab8b0ebee07c699d1d67cc4fae8060051e099714bb1d224d8f",
+    "codex/skills/owners-agent/SKILL.md": "e1f89e9ae90982ae0e1c1523e2f0c39b3ebaf73cbdd365d405b767cac14e8160",
+    "codex/skills/research/SKILL.md": "a0b8f6503d9a88819bccea9781b98f1d0ff93a54b8c6cbb6186d22e162b0d8ca",
+    "manifest.json": "2ca1b5640333f45abe3ad364c3a2f5dd04df2027a54de24b3d8c9fa41efc7681"
+  }
+}
