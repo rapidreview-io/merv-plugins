@@ -1,13 +1,13 @@
 {
   "sourceRepository": "rapidreview-io/Merv",
-  "sourceRevision": "e878f1c906468c22b74193190c4cfe714e4e4f6d",
+  "sourceRevision": "bdaa791559e2006f831e60fce977147693f638d0",
   "pluginVersion": "0.5.7",
   "files": {
     ".agents/plugins/marketplace.json": "05cb0bafa33bd69f63f8f74b60784e0ec2270c70da64c150386424e3526f0a46",
     ".claude-plugin/marketplace.json": "c8cb1ae036477931314753bdf09a8d5a5bfe6cc3022afeb51dad6b0a316973de",
     "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
     "NOTICE": "d9b32e4d1a4debdab96ea359eb9f28612d96de20214b750c36968b0460554042",
-    "README.md": "c477366dd347df75b0ec705ad86780e1267d9e1594b1ea1a7e6a7897e7b8d43f",
+    "README.md": "a47496957793abff3248bdeffb85c871120538cec15488a50bebf52b92b45e99",
     "claude-code/.claude-plugin/plugin.json": "1c7251d98e866147bcab80f21f5e28fc27c3a982ca418d8f96055807fcd5f72c",
     "claude-code/.mcp.json": "d20e3326f14f17eb6ded6958e5abbdcca130971c828b1064f88572ac1e11f59c",
     "claude-code/skills/git-access/SKILL.md": "a409d62d36e4d468fed8fc4e16273d091a9cdd6615f37e9aeca94c1bc7f08dbf",
