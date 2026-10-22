@@ -1,25 +1,25 @@
 {
   "sourceRepository": "rapidreview-io/Merv",
-  "sourceRevision": "bdaa791559e2006f831e60fce977147693f638d0",
-  "pluginVersion": "0.5.7",
+  "sourceRevision": "187352834d49e18fbc7517be0da1f8ce8aefdbad",
+  "pluginVersion": "0.5.8",
   "files": {
     ".agents/plugins/marketplace.json": "05cb0bafa33bd69f63f8f74b60784e0ec2270c70da64c150386424e3526f0a46",
-    ".claude-plugin/marketplace.json": "c8cb1ae036477931314753bdf09a8d5a5bfe6cc3022afeb51dad6b0a316973de",
+    ".claude-plugin/marketplace.json": "0bb468c1d78f6669f03d58c7999c4f5bd64c12236015c65799a4295fc7353c8d",
     "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
     "NOTICE": "d9b32e4d1a4debdab96ea359eb9f28612d96de20214b750c36968b0460554042",
     "README.md": "a47496957793abff3248bdeffb85c871120538cec15488a50bebf52b92b45e99",
-    "claude-code/.claude-plugin/plugin.json": "1c7251d98e866147bcab80f21f5e28fc27c3a982ca418d8f96055807fcd5f72c",
+    "claude-code/.claude-plugin/plugin.json": "31a9cb6846f1c25d9ccb9139f3fb0f9898617f89f97679d7b9564b6e523c69cd",
     "claude-code/.mcp.json": "d20e3326f14f17eb6ded6958e5abbdcca130971c828b1064f88572ac1e11f59c",
     "claude-code/skills/git-access/SKILL.md": "a409d62d36e4d468fed8fc4e16273d091a9cdd6615f37e9aeca94c1bc7f08dbf",
     "claude-code/skills/operations/SKILL.md": "044da377950ca5ab8b0ebee07c699d1d67cc4fae8060051e099714bb1d224d8f",
     "claude-code/skills/owners-agent/SKILL.md": "e1f89e9ae90982ae0e1c1523e2f0c39b3ebaf73cbdd365d405b767cac14e8160",
-    "claude-code/skills/research/SKILL.md": "a0b8f6503d9a88819bccea9781b98f1d0ff93a54b8c6cbb6186d22e162b0d8ca",
-    "codex/.codex-plugin/plugin.json": "657d5de0dce4b425c3735703d75d1a828b9ca8cf5f2bde3adfeb52763a6c8f5f",
+    "claude-code/skills/research/SKILL.md": "aeb77d9009b0452e81b82bade7620748ded6a50b78b6f50c1a6ecde00d5aad4f",
+    "codex/.codex-plugin/plugin.json": "28ca153cd1ac7c3905ced40c257c63f823ced959ef5f09ee9c82b7a572a5b1ed",
     "codex/.mcp.json": "595ed396567f98f7c078d33f7c1a6e312c1b0a491571c797d57f567218b9baa5",
     "codex/skills/git-access/SKILL.md": "a409d62d36e4d468fed8fc4e16273d091a9cdd6615f37e9aeca94c1bc7f08dbf",
     "codex/skills/operations/SKILL.md": "044da377950ca5ab8b0ebee07c699d1d67cc4fae8060051e099714bb1d224d8f",
     "codex/skills/owners-agent/SKILL.md": "e1f89e9ae90982ae0e1c1523e2f0c39b3ebaf73cbdd365d405b767cac14e8160",
-    "codex/skills/research/SKILL.md": "a0b8f6503d9a88819bccea9781b98f1d0ff93a54b8c6cbb6186d22e162b0d8ca",
-    "manifest.json": "2ca1b5640333f45abe3ad364c3a2f5dd04df2027a54de24b3d8c9fa41efc7681"
+    "codex/skills/research/SKILL.md": "aeb77d9009b0452e81b82bade7620748ded6a50b78b6f50c1a6ecde00d5aad4f",
+    "manifest.json": "16401167cb48b5e1a5bcd8a8715e21514039863c6c70f98728e809c92032526f"
   }
 }
